@@ -1,7 +1,7 @@
 # clojep
 
-Clojep is a wrapper around [jep](https://github.com/ninia/jep) which embeds
-CPython in Java through JNI and is safe to use in a heavily threaded
+Clojep is a Clojure wrapper around [jep](https://github.com/ninia/jep) which
+embeds CPython in Java through JNI and is safe to use in a heavily threaded
 environment.
 
 ## Usage
